@@ -118,11 +118,6 @@ print >>sys.stderr, 'received "%s"' % data
 
 ----
 
-# CVE-2020-
-
-
-
-
 
 # CVE-2019-2725
 
