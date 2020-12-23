@@ -1,0 +1,8 @@
+[文章链接](https://mp.weixin.qq.com/s?__biz=MzI2OTMzNjg4OQ==&mid=2247485620&idx=1&sn=377d2e0852a0474ba2389d82e908d0f9&chksm=eae0a0e2dd9729f4dab527c0423821a271ef2373bc0622619f4dc22b63c265a12b06736e126d&scene=126&sessionid=1595666151&key=ec3f6bfa6a9a817a48ba7567906fd2f0d7ddf5571eb38d377fbb067555191656100d9ee71a471fbce6e5d5d4beb33d666c12e782c4b261b972f321e367bc3c0624ca34652041fdd34995c6fc8aa81656&ascene=1&uin=MTk5NTI5NjgwOQ%3D%3D&devicetype=Windows+7+x64&version=62090529&lang=zh_CN&exportkey=Awo%2BjEVrlR2HWsgV0AMasDY%3D&pass_ticket=AVwMrxdAKlGFbNqqA6PTNKlsCqm%2BZ%2BtkQo6cbF6UxTdFVZOV837ka5A2ahv3w0uO)
+
+检测：
+
+```bash
+curl "127.0.0.1" -H "Cookie:lkfakjfa0.0.0.0:9999"
+```
+
